@@ -1,8 +1,20 @@
-# Assignment One
-## Purpose
+# CSC3916 Assignment 1 - Echo Server
+## Project Purpose
 The purpose of this assignment is to setup your GitHub and Heroku (or Rendor) instances for future assignments
 
 You will create a Postman collection and create a REST test within the project. You will need to automate each test and include at least 1 assert for each request in the validation.
+
+## Project Overview
+This project is a simple **Echo Server** deployed on **Render**. It accepts 'POST' requests and returns the same data sent in the request body.
+
+## Deployment
+The echo server is deployed on **Render** and acceccible at:
+https://csc3916-assignment1-pnx8.onrender.com
+
+## Setup and Installation
+1. Clone this repository:
+   '''bash
+   git clone https://github.com/natkip/CSC3916_Assignment1.git
 
 ## Requirements
 - Sign-up for a free GitHub account: https://github.com/ – Homework assignments will be stored on GitHub.
